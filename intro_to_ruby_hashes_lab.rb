@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  { "Hello" => "worl" }
+  { name:  "James" }
 end
 
 def pioneer
@@ -11,7 +11,7 @@ def pioneer
 end
 
 def id_generator
-  {id: 2}
+  {id: 10}
 end
 
 def my_hash_creator(key, value)
